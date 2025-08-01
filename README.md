@@ -1,24 +1,6 @@
-<style>
-  .corner-banner {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    z-index: 999;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .corner-banner:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  }
-</style>
-
-<img
-  src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/ChatGPT%20Image%20Aug%201%2C%202025%2C%2006_23_45%20PM.png"
-  alt="Banner"
-  width="120"
-  class="corner-banner"
-/>
+<a href="#">
+  <img src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/ChatGPT%20Image%20Aug%201%2C%202025%2C%2006_23_45%20PM.png" alt="Mini Banner" width="100" align="left" />
+</a>
 
 
 <h1 align="center">👋 Hi, I'm Rugved Nikale</h1>
