@@ -1,5 +1,5 @@
 <div style="position: fixed; top: 10px; left: 10px; z-index: 999;">
-  <img src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/banner.png" alt="Banner" width="120" />
+  <img src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/ChatGPT%20Image%20Aug%201%2C%202025%2C%2006_23_45%20PM.png" alt="Banner" width="120" />
 </div>
 
 
