@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/ChatGPT%20Image%20Aug%201%2C%202025%2C%2006_23_45%20PM.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rugvednikale/rugvednikale/main/ChatGPT%20Image%20Aug%201%2C%202025%2C%2006_23_45%20PM.png" alt="Banner" width="30%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Rugved Nikale</h1>
