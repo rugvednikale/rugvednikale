@@ -23,11 +23,10 @@
 ---
 
 📫 **Let’s connect:**
-- 📍 Mumbai
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rugved-nikale-48ab56363/)
-- 📧 Email: mailto:rugvednnikale@gmail.com
+- 📍 Mumbai  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rugved-nikale-48ab56363/)  
+- 📧 [Email](mailto:rugvednnikale@gmail.com)
 
 ---
 
 🧠 **Fun Fact:** I design UI prototypes in Figma *before* writing a single line of code — aesthetics first!
-
