@@ -25,7 +25,7 @@
 📫 **Let’s connect:**
 - 📍 Mumbai
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rugved-nikale-48ab56363/)
-- 📧 Email: rugved.nikale.3011@gmail.com
+- 📧 Email: mailto:rugvednnikale@gmail.com
 
 ---
 
