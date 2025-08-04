@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center">👋 Hi, I'm Rugved Nikale</h1>
+<h1 align="center"> Hi, I'm Rugved Nikale</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Web+%26+Game+Creator+based+in+India;Let%E2%80%99s+build+beautiful+things!" alt="Typing SVG" />
